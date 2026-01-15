@@ -1,0 +1,17 @@
+{
+  "git_revision": "542ef773cef69d4922e94bb29ef604b4b0cd7f5b",
+  "artifacts": {
+    "installer": {
+      "filename": "ncParticleEditor-2026.08.r1-542ef77-Win64-VS2022.exe",
+      "size": 3193356,
+      "timestamp": "2026-08-24T02:11:00Z",
+      "sha256": "004538c98c99122ca40555ed09e5b7e43f63b26ba06473b25c01866acbed2d5d"
+    },
+    "portable": {
+      "filename": "ncParticleEditor-2026.08.r1-542ef77-Win64-VS2022.zip",
+      "size": 3776218,
+      "timestamp": "2026-08-24T02:11:01Z",
+      "sha256": "a32bbb3bd19acace8b4427c3bf1648872200eef266967e4d1452f08da58f8e7a"
+    }
+  }
+}
